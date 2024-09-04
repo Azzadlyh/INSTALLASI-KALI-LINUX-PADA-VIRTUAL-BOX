@@ -7,19 +7,22 @@
 4. Klik _New_ pada bagian atas VB  
 ![image](https://github.com/user-attachments/assets/9215ee96-0e50-4642-b2a0-1a3828958a92)
 
-5. Buat nama sesuai sistem yang akan diinstall. Lalu bagian Iso Image masukkan file iso Kali Linux yang didownload tadi, lalu klik _New_
+5. Buat nama sesuai sistem yang akan diinstall. Lalu bagian Iso Image masukkan file iso Kali Linux yang didownload tadi, lalu klik _Next_
 ![image](https://github.com/user-attachments/assets/dfdc32cf-651a-489b-adbc-8e504c0a0ddd)
 
-Setting Hardware sengan spesifikasi laptop, Kamudian klik _New_
+6. Setting Hardware sengan spesifikasi laptop, Kamudian klik _Next_
 ![image](https://github.com/user-attachments/assets/842b45b3-a86d-4760-97e9-77045c617b65)  
 
-Klik _New_
+7. Klik _Next_
 ![image](https://github.com/user-attachments/assets/4d0b54ec-7c02-4485-b4f2-cc985a7f7fdd)  
 
-![image](https://github.com/user-attachments/assets/d48e7f0f-15e8-4a2d-a86a-9c0e9940e891)  
+8. Klik _Next_
+![image](https://github.com/user-attachments/assets/d48e7f0f-15e8-4a2d-a86a-9c0e9940e891)
 
+9. Klik _Setting_ dan Klik _Network_, lalu ikuti step diatas untuk mengisi bagian Networknya 
 ![image](https://github.com/user-attachments/assets/76e344c1-37eb-421a-bf3e-f528331a05a3)  
 
+10. Klik _Start_ dan Klik Graphicall Install pada Kali Linuxnya 
 ![image](https://github.com/user-attachments/assets/1666ddad-7187-496d-9b3c-e27525fa7920)  
 
 ![image](https://github.com/user-attachments/assets/b84769f4-fe4d-4206-91e0-dd87366eed15)  
