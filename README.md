@@ -1,13 +1,19 @@
 # INSTALLASI-KALI-LINUX-PADA-VIRTUAL-BOX
 
-1. Download Kali Linux melalui link berikut www.kali.org  
+1. Download Kali Linux melalui link berikut www.kali.org
+2. Klik Download file Kali Linux Installer x64
 
-![image](https://github.com/user-attachments/assets/9215ee96-0e50-4642-b2a0-1a3828958a92)  
+3. Buka aplikasi Virtual Box
+4. Klik _New_ pada bagian atas VB  
+![image](https://github.com/user-attachments/assets/9215ee96-0e50-4642-b2a0-1a3828958a92)
 
-![image](https://github.com/user-attachments/assets/dfdc32cf-651a-489b-adbc-8e504c0a0ddd)  
+5. Buat nama sesuai sistem yang akan diinstall. Lalu bagian Iso Image masukkan file iso Kali Linux yang didownload tadi, lalu klik _New_
+![image](https://github.com/user-attachments/assets/dfdc32cf-651a-489b-adbc-8e504c0a0ddd)
 
+Setting Hardware sengan spesifikasi laptop, Kamudian klik _New_
 ![image](https://github.com/user-attachments/assets/842b45b3-a86d-4760-97e9-77045c617b65)  
 
+Klik _New_
 ![image](https://github.com/user-attachments/assets/4d0b54ec-7c02-4485-b4f2-cc985a7f7fdd)  
 
 ![image](https://github.com/user-attachments/assets/d48e7f0f-15e8-4a2d-a86a-9c0e9940e891)  
