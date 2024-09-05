@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0c5d91f6-2ee8-4234-8ef4-35d35721ca04)![image](https://github.com/user-attachments/assets/0bddb7ad-2667-4361-ba49-eacf05582748)# INSTALLASI-KALI-LINUX-PADA-VIRTUAL-BOX
+# INSTALLASI-KALI-LINUX-PADA-VIRTUAL-BOX
 
 1. Download Kali Linux melalui link berikut www.kali.org  
   ![image](https://github.com/user-attachments/assets/9b9184bd-7bfb-455a-b07a-b1b1c416a0a0)  
@@ -30,11 +30,11 @@
 10. Klik _Setting_ dan Klik _Network_, lalu ikuti step diatas untuk mengisi bagian Networknya
    ![image](https://github.com/user-attachments/assets/7c812b97-03da-403d-ab5f-543254fde8c3)  
 
-11. Klik _Start_ dan Klik Graphicall Install pada Kali Linuxnya 
-  ![image](https://github.com/user-attachments/assets/367a18cd-4eb0-4ac9-8e77-2aec8367a4c6)  
+11. Klik _Start_ dan Klik Graphicall Install pada Kali Linuxnya   
+  ![image](https://github.com/user-attachments/assets/cbc2bd8b-ac21-4eba-9a39-40d5bc64eb34)  
 
 12. Select Languange pilih **English** (_menyesuaikan_)  
-  ![image](https://github.com/user-attachments/assets/b84769f4-fe4d-4206-91e0-dd87366eed15)  
+  ![image](https://github.com/user-attachments/assets/84b6e67c-9492-42d4-8cab-47452699b445)   
 
 13. Select Location pilih **Asia -- Other -- Indonesia** (_menyesuaikan_)   
   ![image](https://github.com/user-attachments/assets/589a44dd-2a61-419b-98e0-09868ed12a09)  
@@ -42,23 +42,23 @@
 14. Configure Keyboard pilih **American English** (_menyesuaikan_)  
   ![image](https://github.com/user-attachments/assets/795cadbb-ba7e-4aa7-bfc5-dd0e231d97ce)
 
-15. Configure The Clock pilih **Western**
+15. Configure The Clock pilih **Western**  
   ![image](https://github.com/user-attachments/assets/6c9b87d2-f98d-4c5f-b5ec-5d0e0cf5cb19)  
 
-16 Partition Disks  **Guided-use entire disk**   
+16. Partition Disks  **Guided-use entire disk**   
    Lalu klik :  
    **All files in one partition**  
    **Finish partitioning and write changes to disk**  
-  ![image](https://github.com/user-attachments/assets/f7ccdec3-9b7b-42c1-a940-38d24809a060)  
+  ![image](https://github.com/user-attachments/assets/1ffdf560-2fcf-486b-b9dd-4cf217f60390)  
 
 17. Software Selection, ceklis pada bagian **Desktop evironment**      
-  ![image](https://github.com/user-attachments/assets/c9322f6b-af2a-4fbb-9e87-5a9462302f56)  
+  ![image](https://github.com/user-attachments/assets/7379364f-f823-4b7c-93f1-b54b7189d17a)  
 
 18. Install Software  
-![image](https://github.com/user-attachments/assets/fb517980-2caa-4ad8-87ce-5e4030993c08)
+  ![image](https://github.com/user-attachments/assets/c9d1d2e5-4481-4ccf-b227-29477c1dd90e)  
 
-19. Selesai menginstall klik _Continue_
-  ![image](https://github.com/user-attachments/assets/bcac781d-4cdb-4b67-a7b4-e85bee74893f)
+19. Selesai menginstall klik _Continue_  
+  ![image](https://github.com/user-attachments/assets/ccb3bf38-c78e-45c4-8295-74b0d369c819)  
 
 20. Install GRUB Boot Loader pilih **Enter device manually**  
   ![image](https://github.com/user-attachments/assets/8585cab2-4002-47d2-84e5-bf7dea0fe48f)
@@ -66,7 +66,10 @@
 21. GRUB berhasil di install, pilih device **/dev/sda**  
   ![image](https://github.com/user-attachments/assets/258b75e8-6e12-4747-aab9-7978eefc1a80)
 
-22. 
+22. Tampilan jika berhasil install Kali Linux pada VirtualBox, kemudian Log in menggunakan username dan password yang sudah dibuat sebelumnya      
+  ![image](https://github.com/user-attachments/assets/bf9ac13f-82b9-4fb6-a9ad-b3e2eed8948d)   
+ 
+DONE.
 
 
 
